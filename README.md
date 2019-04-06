@@ -1,2 +1,2 @@
 # Fibonacci
-Mod 8
+Modul 8
