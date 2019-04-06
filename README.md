@@ -1,2 +1,2 @@
-# Fibanocci
+# Fibonacci
 Mod 8
