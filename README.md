@@ -1,2 +1,2 @@
-# Deret-Fibanocci
+# Fibanocci
 Mod 8
